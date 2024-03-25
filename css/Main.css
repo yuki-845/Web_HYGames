@@ -1,0 +1,9 @@
+h1 {
+    border-radius: 10px;
+    background: #e5dcdc;
+    box-shadow:  6px 6px 12px #b3acac,
+             -6px -6px 12px #ffffff;
+}
+* {
+    background: #e0e0e0;
+}
